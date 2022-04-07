@@ -1,0 +1,6 @@
+project: tate1650/mayhem-cmake-example
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme
+
